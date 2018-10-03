@@ -1,0 +1,1 @@
+#This directory will contain any json, sounds, images and other media that will be used by the extension.
