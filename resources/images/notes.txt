@@ -1,0 +1,1 @@
+#This directory contains all of the images for the user interface and other elemnts of the extension.
