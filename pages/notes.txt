@@ -1,0 +1,1 @@
+#This directory will contain all of the pages loaded for generating and searching for cards for the MTG trading card game.
